@@ -18,3 +18,19 @@ Syllabus:
 
 - create a github account
 - join discord channel
+
+### Interests
+
+- webpage
+- cyber security
+- data wrangling
+
+### Advanded Track
+
+*Neovim Maintainer*:
+- very advanced setup: https://www.youtube.com/watch?v=stqUbv-5u2s
+
+*Josean*:
+- vim motions: https://www.youtube.com/watch?v=fw5U551BZWs
+- Neovim: https://www.youtube.com/watch?v=6pAG3BHurdM
+
