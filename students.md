@@ -2,4 +2,4 @@
 
 |  name  |     github     |    Discord     |
 | ------ | -------------- | -------------- |
-| Carlos | lostineverland | lostineverland |
+| Callie | callieware | peachypoop2 |
