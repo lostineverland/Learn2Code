@@ -1,0 +1,16 @@
+AccountID,AccountType,AccountHolder,OpenDate,Balance,Status,Branch
+ACC-1001,Checking,John Smith,2020-03-15,12500.50,Active,Downtown
+ACC-1002,Savings,Mary Johnson,2019-07-22,45000.00,Active,Midtown
+ACC-1003,Checking,Robert Williams,2021-01-10,8750.25,Active,Uptown
+ACC-1004,Investment,Jennifer Brown,2018-11-05,125000.00,Active,Financial District
+ACC-1005,Business,Tech Consulting LLC,2022-05-18,65000.00,Active,Business Center
+ACC-1006,Savings,Michael Davis,2020-09-30,22000.00,Active,Suburban
+ACC-1007,Checking,Patricia Garcia,2019-12-12,5600.75,Active,Downtown
+ACC-1008,Investment,David Martinez,2021-06-25,95000.00,Active,Financial District
+ACC-1009,Business,Design Studio Inc,2023-02-14,38000.00,Active,Business Center
+ACC-1010,Checking,Linda Rodriguez,2018-08-20,7800.00,Active,Midtown
+ACC-1011,Savings,James Wilson,2020-11-11,31000.00,Active,Uptown
+ACC-1012,Investment,Sarah Anderson,2019-04-03,78000.00,Active,Financial District
+ACC-1013,Checking,Thomas Taylor,2022-01-25,4500.00,Active,Suburban
+ACC-1014,Business,Green Energy Co,2021-09-08,52000.00,Active,Business Center
+ACC-1015,Savings,Emma Thompson,2020-06-17,19500.00,Active,Downtown

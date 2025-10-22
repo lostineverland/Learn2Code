@@ -1,0 +1,17 @@
+SpeciesID,CommonName,ScientificName,Kingdom,Class,Order,ConservationStatus,Habitat
+SP001,Bald Eagle,Haliaeetus leucocephalus,Animalia,Aves,Accipitriformes,Least Concern,Coastal and inland waters
+SP002,Red-tailed Hawk,Buteo jamaicensis,Animalia,Aves,Accipitriformes,Least Concern,Open areas with perches
+SP003,White-tailed Deer,Odocoileus virginianus,Animalia,Mammalia,Artiodactyla,Least Concern,Forests and grasslands
+SP004,Wild Turkey,Meleagris gallopavo,Animalia,Aves,Galliformes,Least Concern,Mixed woodlands
+SP005,River Otter,Lontra canadensis,Animalia,Mammalia,Carnivora,Least Concern,Freshwater systems
+SP006,Great Blue Heron,Ardea herodias,Animalia,Aves,Pelecaniformes,Least Concern,Wetlands and shorelines
+SP007,Beaver,Castor canadensis,Animalia,Mammalia,Rodentia,Least Concern,Streams and ponds
+SP008,Black Bear,Ursus americanus,Animalia,Mammalia,Carnivora,Least Concern,Forests
+SP009,Coyote,Canis latrans,Animalia,Mammalia,Carnivora,Least Concern,Diverse habitats
+SP010,Red Fox,Vulpes vulpes,Animalia,Mammalia,Carnivora,Least Concern,Mixed habitats
+SP011,Wood Duck,Aix sponsa,Animalia,Aves,Anseriformes,Least Concern,Wooded swamps
+SP012,Moose,Alces alces,Animalia,Mammalia,Artiodactyla,Least Concern,Northern forests
+SP013,Raccoon,Procyon lotor,Animalia,Mammalia,Carnivora,Least Concern,Diverse habitats
+SP014,Muskrat,Ondatra zibethicus,Animalia,Mammalia,Rodentia,Least Concern,Wetlands
+SP015,Gray Wolf,Canis lupus,Animalia,Mammalia,Carnivora,Least Concern,Forests and tundra
+SP016,Canada Goose,Branta canadensis,Animalia,Aves,Anseriformes,Least Concern,Lakes and grasslands

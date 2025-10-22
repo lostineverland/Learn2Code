@@ -1,0 +1,31 @@
+MedicationID,PatientID,MedicationName,Dosage,Frequency,StartDate,EndDate,PrescribedBy
+M001,P001,Metformin,500mg,Twice daily,2024-01-15,2024-04-15,Dr. Williams
+M002,P001,Lisinopril,10mg,Once daily,2024-01-15,2024-04-15,Dr. Williams
+M003,P002,Amlodipine,5mg,Once daily,2024-01-16,2024-04-16,Dr. Chen
+M004,P002,Atorvastatin,20mg,Once daily,2024-01-16,2024-04-16,Dr. Chen
+M005,P003,Albuterol,90mcg,As needed,2024-01-18,2024-07-18,Dr. Williams
+M006,P004,Metformin,1000mg,Twice daily,2024-01-20,2024-04-20,Dr. Patel
+M007,P004,Glipizide,5mg,Once daily,2024-01-20,2024-04-20,Dr. Patel
+M008,P005,Furosemide,40mg,Once daily,2024-01-22,2024-04-22,Dr. Chen
+M009,P005,Carvedilol,25mg,Twice daily,2024-01-22,2024-04-22,Dr. Chen
+M010,P007,Insulin Glargine,20 units,Once daily,2024-01-25,2024-04-25,Dr. Williams
+M011,P008,Hydrochlorothiazide,25mg,Once daily,2024-01-26,2024-04-26,Dr. Chen
+M012,P010,Insulin Lispro,Variable,With meals,2024-01-29,2024-04-29,Dr. Patel
+M013,P011,Tiotropium,18mcg,Once daily,2024-02-01,2024-05-01,Dr. Williams
+M014,P012,Levothyroxine,100mcg,Once daily,2024-02-03,2024-05-03,Dr. Rodriguez
+M015,P013,Aspirin,81mg,Once daily,2024-02-05,2024-05-05,Dr. Chen
+M016,P013,Clopidogrel,75mg,Once daily,2024-02-05,2024-05-05,Dr. Chen
+M017,P014,Sertraline,50mg,Once daily,2024-02-06,2024-05-06,Dr. Kumar
+M018,P015,Metformin,850mg,Twice daily,2024-02-08,2024-05-08,Dr. Patel
+M019,P016,Amoxicillin,500mg,Three times daily,2024-02-10,2024-02-20,Dr. Williams
+M020,P017,Losartan,50mg,Once daily,2024-02-11,2024-05-11,Dr. Chen
+M021,P018,Sumatriptan,50mg,As needed,2024-02-13,2024-08-13,Dr. Kumar
+M022,P020,Escitalopram,10mg,Once daily,2024-02-16,2024-05-16,Dr. Kumar
+M023,P021,Metformin,1000mg,Twice daily,2024-02-18,2024-05-18,Dr. Patel
+M024,P022,Alendronate,70mg,Once weekly,2024-02-20,2024-08-20,Dr. Williams
+M025,P023,Donepezil,10mg,Once daily,2024-02-22,2024-05-22,Dr. Chen
+M026,P024,Ciprofloxacin,500mg,Twice daily,2024-02-23,2024-03-03,Dr. Rodriguez
+M027,P025,Aspirin,325mg,Once daily,2024-02-25,2024-05-25,Dr. Chen
+M028,P025,Atorvastatin,80mg,Once daily,2024-02-25,2024-05-25,Dr. Chen
+M029,P026,Metformin,500mg,Twice daily,2024-02-26,2024-05-26,Dr. Patel
+M030,P027,Morphine,5mg,Every 4 hours,2024-02-28,2024-03-05,Dr. Kumar

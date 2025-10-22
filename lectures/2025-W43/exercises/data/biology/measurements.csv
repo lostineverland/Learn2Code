@@ -1,0 +1,31 @@
+MeasurementID,Date,Location,Type,Value,Unit,Equipment,Technician
+M001,2024-01-15,Site_A,Temperature,5.2,Celsius,Thermometer_01,Tech_A
+M002,2024-01-15,Site_A,pH,7.2,pH,pH_Meter_01,Tech_A
+M003,2024-01-15,Site_A,Dissolved Oxygen,9.5,mg/L,DO_Meter_01,Tech_A
+M004,2024-01-15,Site_B,Temperature,6.1,Celsius,Thermometer_02,Tech_B
+M005,2024-01-15,Site_B,pH,7.4,pH,pH_Meter_02,Tech_B
+M006,2024-01-15,Site_B,Dissolved Oxygen,10.2,mg/L,DO_Meter_02,Tech_B
+M007,2024-01-16,Site_C,Temperature,4.8,Celsius,Thermometer_03,Tech_C
+M008,2024-01-16,Site_C,pH,6.9,pH,pH_Meter_03,Tech_C
+M009,2024-01-16,Site_C,Dissolved Oxygen,8.7,mg/L,DO_Meter_03,Tech_C
+M010,2024-01-16,Site_D,Temperature,3.5,Celsius,Thermometer_04,Tech_A
+M011,2024-01-16,Site_D,pH,7.0,pH,pH_Meter_04,Tech_A
+M012,2024-01-16,Site_D,Dissolved Oxygen,11.3,mg/L,DO_Meter_04,Tech_A
+M013,2024-01-17,Site_A,Temperature,6.8,Celsius,Thermometer_01,Tech_B
+M014,2024-01-17,Site_A,pH,7.3,pH,pH_Meter_01,Tech_B
+M015,2024-01-17,Site_A,Turbidity,12.5,NTU,Turbidity_Meter_01,Tech_B
+M016,2024-01-18,Site_B,Temperature,7.2,Celsius,Thermometer_02,Tech_C
+M017,2024-01-18,Site_B,pH,7.5,pH,pH_Meter_02,Tech_C
+M018,2024-01-18,Site_B,Conductivity,450,uS/cm,Conductivity_Meter_01,Tech_C
+M019,2024-01-19,Site_C,Temperature,5.5,Celsius,Thermometer_03,Tech_A
+M020,2024-01-19,Site_C,pH,7.1,pH,pH_Meter_03,Tech_A
+M021,2024-01-19,Site_C,Nitrate,2.5,mg/L,Nitrate_Kit_01,Tech_A
+M022,2024-01-20,Site_D,Temperature,4.2,Celsius,Thermometer_04,Tech_B
+M023,2024-01-20,Site_D,pH,6.8,pH,pH_Meter_04,Tech_B
+M024,2024-01-20,Site_D,Phosphate,0.8,mg/L,Phosphate_Kit_01,Tech_B
+M025,2024-01-22,Site_A,Temperature,8.5,Celsius,Thermometer_01,Tech_C
+M026,2024-01-22,Site_A,pH,7.4,pH,pH_Meter_01,Tech_C
+M027,2024-01-22,Site_A,Dissolved Oxygen,9.8,mg/L,DO_Meter_01,Tech_C
+M028,2024-01-23,Site_B,Temperature,9.2,Celsius,Thermometer_02,Tech_A
+M029,2024-01-23,Site_B,pH,7.6,pH,pH_Meter_02,Tech_A
+M030,2024-01-23,Site_B,Turbidity,8.3,NTU,Turbidity_Meter_02,Tech_A

@@ -1,0 +1,16 @@
+ID,Name,Category,Value,Date
+1,Alpha,TypeA,100,2024-01-01
+2,Beta,TypeB,250,2024-01-02
+3,Gamma,TypeA,175,2024-01-03
+4,Delta,TypeC,320,2024-01-04
+5,Epsilon,TypeB,95,2024-01-05
+6,Zeta,TypeA,280,2024-01-06
+7,Eta,TypeC,150,2024-01-07
+8,Theta,TypeB,420,2024-01-08
+9,Iota,TypeA,190,2024-01-09
+10,Kappa,TypeC,310,2024-01-10
+11,Lambda,TypeB,85,2024-01-11
+12,Mu,TypeA,265,2024-01-12
+13,Nu,TypeC,140,2024-01-13
+14,Xi,TypeB,395,2024-01-14
+15,Omicron,TypeA,225,2024-01-15

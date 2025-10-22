@@ -1,0 +1,21 @@
+AppointmentID,PatientID,DoctorName,AppointmentDate,Time,Duration,Type,Status
+A001,P001,Dr. Williams,2024-04-15,09:00,30,Follow-up,Scheduled
+A002,P002,Dr. Chen,2024-04-16,10:30,30,Follow-up,Scheduled
+A003,P003,Dr. Williams,2024-04-18,14:00,20,Follow-up,Scheduled
+A004,P004,Dr. Patel,2024-04-20,11:00,30,Follow-up,Scheduled
+A005,P005,Dr. Chen,2024-04-22,09:30,45,Cardiology,Scheduled
+A006,P007,Dr. Williams,2024-04-25,13:00,30,Follow-up,Scheduled
+A007,P008,Dr. Chen,2024-04-26,15:00,20,Follow-up,Scheduled
+A008,P010,Dr. Patel,2024-04-29,10:00,30,Diabetes Management,Scheduled
+A009,P011,Dr. Williams,2024-05-01,11:30,30,Pulmonology,Scheduled
+A010,P012,Dr. Rodriguez,2024-05-03,14:30,20,Follow-up,Scheduled
+A011,P013,Dr. Chen,2024-05-05,09:00,45,Neurology,Scheduled
+A012,P014,Dr. Kumar,2024-05-06,16:00,45,Psychiatry,Scheduled
+A013,P015,Dr. Patel,2024-05-08,10:30,30,Follow-up,Scheduled
+A014,P016,Dr. Williams,2024-05-16,13:30,30,Follow-up,Completed
+A015,P017,Dr. Chen,2024-05-11,14:00,20,Follow-up,Scheduled
+A016,P018,Dr. Kumar,2024-05-13,15:30,30,Neurology,Scheduled
+A017,P020,Dr. Kumar,2024-05-16,10:00,45,Psychiatry,Scheduled
+A018,P021,Dr. Patel,2024-05-18,11:00,30,Follow-up,Scheduled
+A019,P022,Dr. Williams,2024-05-20,09:30,30,Orthopedics,Scheduled
+A020,P023,Dr. Chen,2024-05-22,13:00,45,Neurology,Scheduled

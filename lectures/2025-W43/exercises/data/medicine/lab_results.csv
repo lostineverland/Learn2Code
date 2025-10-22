@@ -1,0 +1,31 @@
+TestID,PatientID,TestType,Result,Units,ReferenceRange,Status,TestDate
+T001,P001,Blood Glucose,185,mg/dL,70-100,High,2024-01-15
+T002,P001,HbA1c,7.8,%,<5.7,High,2024-01-15
+T003,P002,Blood Pressure,145/95,mmHg,<120/80,High,2024-01-16
+T004,P002,Cholesterol,240,mg/dL,<200,High,2024-01-16
+T005,P003,Peak Flow,380,L/min,400-600,Low,2024-01-18
+T006,P004,Blood Glucose,195,mg/dL,70-100,High,2024-01-20
+T007,P004,HbA1c,8.2,%,<5.7,High,2024-01-20
+T008,P005,BNP,850,pg/mL,<100,High,2024-01-22
+T009,P005,Troponin,0.15,ng/mL,<0.04,High,2024-01-22
+T010,P007,Blood Glucose,178,mg/dL,70-100,High,2024-01-25
+T011,P008,Blood Pressure,150/92,mmHg,<120/80,High,2024-01-26
+T012,P009,X-Ray,Fracture confirmed,N/A,N/A,Abnormal,2024-01-28
+T013,P010,Blood Glucose,210,mg/dL,70-100,High,2024-01-29
+T014,P010,HbA1c,9.1,%,<5.7,High,2024-01-29
+T015,P011,Spirometry,FEV1 55%,% predicted,>80%,Low,2024-02-01
+T016,P012,TSH,8.5,mIU/L,0.4-4.0,High,2024-02-03
+T017,P013,CT Scan,Ischemic stroke,N/A,N/A,Abnormal,2024-02-05
+T018,P015,Blood Glucose,188,mg/dL,70-100,High,2024-02-08
+T019,P016,Chest X-Ray,Infiltrate present,N/A,N/A,Abnormal,2024-02-10
+T020,P016,WBC Count,15000,cells/μL,4000-11000,High,2024-02-10
+T021,P017,Blood Pressure,148/90,mmHg,<120/80,High,2024-02-11
+T022,P019,PSA,12.5,ng/mL,<4.0,High,2024-02-15
+T023,P019,Biopsy,Malignant cells,N/A,N/A,Abnormal,2024-02-15
+T024,P021,Blood Glucose,192,mg/dL,70-100,High,2024-02-18
+T025,P023,MRI Brain,Cortical atrophy,N/A,N/A,Abnormal,2024-02-22
+T026,P024,Urinalysis,Bacteria present,N/A,N/A,Abnormal,2024-02-23
+T027,P025,Troponin,2.8,ng/mL,<0.04,Critical,2024-02-25
+T028,P025,ECG,ST elevation,N/A,N/A,Critical,2024-02-25
+T029,P026,Blood Glucose,198,mg/dL,70-100,High,2024-02-26
+T030,P028,Mammogram,Mass detected,N/A,N/A,Abnormal,2024-03-01

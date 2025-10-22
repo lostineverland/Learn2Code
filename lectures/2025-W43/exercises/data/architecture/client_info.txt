@@ -1,0 +1,90 @@
+Client Contact Information
+===========================
+
+Tech Corp
+---------
+Contact: Sarah Chen
+Title: VP of Operations
+Email: schen@techcorp.com
+Phone: (555) 123-4567
+Address: 100 Tech Parkway, Suite 500
+Notes: Prefers morning meetings, budget-conscious, quick decision maker
+
+Smith Family
+------------
+Contact: Robert & Jennifer Smith
+Email: smithfamily@email.com
+Phone: (555) 234-5678
+Address: 45 Oak Lane
+Notes: First-time builders, need detailed explanations, weekend meetings preferred
+
+City Council
+------------
+Contact: Michael Torres
+Title: Planning Director
+Email: mtorres@cityplanning.gov
+Phone: (555) 345-6789
+Address: City Hall, 200 Main Street
+Notes: Requires public hearing approvals, strict deadline adherence
+
+Retail Group
+------------
+Contact: Amanda Williams
+Title: Development Manager
+Email: awilliams@retailgroup.com
+Phone: (555) 456-7890
+Address: 75 Commerce Boulevard
+Notes: Multiple locations planned, standardized designs preferred
+
+Local Foundation
+----------------
+Contact: David Kim
+Title: Executive Director
+Email: dkim@localfoundation.org
+Phone: (555) 567-8901
+Address: 30 Community Drive
+Notes: Community input required, focus on sustainability
+
+Property Developers
+-------------------
+Contact: Lisa Martinez
+Title: Project Manager
+Email: lmartinez@propdev.com
+Phone: (555) 678-9012
+Address: 500 Investment Plaza
+Notes: Fast-paced, multiple projects, experienced client
+
+Arts Foundation
+---------------
+Contact: Patricia Anderson
+Title: Board President
+Email: panderson@artsfoundation.org
+Phone: (555) 789-0123
+Address: 15 Cultural Center Way
+Notes: Design-focused, flexible timeline, donor presentations needed
+
+Finance Group
+-------------
+Contact: Thomas Brown
+Title: CFO
+Email: tbrown@financegroup.com
+Phone: (555) 890-1234
+Address: 250 Financial District
+Notes: Completed project, very satisfied, potential future work
+
+Johnson Family
+--------------
+Contact: Mark & Emily Johnson
+Email: johnsonfam@email.com
+Phone: (555) 901-2345
+Address: 88 Maple Avenue
+Notes: Growing family, future expansion considerations, budget flexible
+
+School District
+---------------
+Contact: Dr. Karen White
+Title: Superintendent
+Email: kwhite@schooldistrict.edu
+Phone: (555) 012-3456
+Address: Education Center, 400 School Lane
+Notes: Public funding, board approvals required, community engagement essential

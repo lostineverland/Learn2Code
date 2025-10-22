@@ -1,0 +1,31 @@
+PatientID,Name,Age,Gender,Diagnosis,AdmissionDate,DischargeDate,PrimaryCare
+P001,Smith John,45,M,Type 2 Diabetes,2024-01-15,2024-01-18,Dr. Williams
+P002,Johnson Mary,67,F,Hypertension,2024-01-16,2024-01-17,Dr. Chen
+P003,Williams Robert,34,M,Asthma,2024-01-18,2024-01-19,Dr. Williams
+P004,Brown Jennifer,52,F,Type 2 Diabetes,2024-01-20,2024-01-23,Dr. Patel
+P005,Jones Michael,71,M,Heart Failure,2024-01-22,2024-01-28,Dr. Chen
+P006,Garcia Maria,28,F,Pregnancy - Normal,2024-01-23,2024-01-25,Dr. Rodriguez
+P007,Miller David,58,M,Type 2 Diabetes,2024-01-25,2024-01-30,Dr. Williams
+P008,Davis Patricia,43,F,Hypertension,2024-01-26,2024-01-27,Dr. Chen
+P009,Rodriguez Carlos,39,M,Fracture - Tibia,2024-01-28,2024-02-02,Dr. Kumar
+P010,Martinez Linda,55,F,Type 1 Diabetes,2024-01-29,2024-02-01,Dr. Patel
+P011,Hernandez Jose,62,M,COPD,2024-02-01,2024-02-05,Dr. Williams
+P012,Lopez Ana,48,F,Hypothyroidism,2024-02-03,2024-02-04,Dr. Rodriguez
+P013,Gonzalez Miguel,70,M,Stroke,2024-02-05,2024-02-15,Dr. Chen
+P014,Wilson Sarah,31,F,Anxiety Disorder,2024-02-06,2024-02-07,Dr. Kumar
+P015,Anderson Thomas,66,M,Type 2 Diabetes,2024-02-08,2024-02-12,Dr. Patel
+P016,Taylor Emma,44,F,Pneumonia,2024-02-10,2024-02-16,Dr. Williams
+P017,Thomas James,53,M,Hypertension,2024-02-11,2024-02-12,Dr. Chen
+P018,Moore Lisa,37,F,Migraine,2024-02-13,2024-02-14,Dr. Kumar
+P019,Jackson Brian,69,M,Prostate Cancer,2024-02-15,2024-02-20,Dr. Rodriguez
+P020,White Karen,41,F,Depression,2024-02-16,2024-02-17,Dr. Kumar
+P021,Harris Kevin,57,M,Type 2 Diabetes,2024-02-18,2024-02-22,Dr. Patel
+P022,Martin Rebecca,50,F,Osteoporosis,2024-02-20,2024-02-21,Dr. Williams
+P023,Thompson Daniel,72,M,Alzheimer Disease,2024-02-22,2024-03-01,Dr. Chen
+P024,Garcia Sofia,29,F,UTI,2024-02-23,2024-02-24,Dr. Rodriguez
+P025,Martinez Juan,64,M,Heart Attack,2024-02-25,2024-03-05,Dr. Chen
+P026,Robinson Nancy,46,F,Type 2 Diabetes,2024-02-26,2024-03-01,Dr. Patel
+P027,Clark Paul,38,M,Appendicitis,2024-02-28,2024-03-03,Dr. Kumar
+P028,Rodriguez Elena,54,F,Breast Cancer,2024-03-01,2024-03-10,Dr. Rodriguez
+P029,Lewis Mark,60,M,Kidney Stones,2024-03-03,2024-03-06,Dr. Williams
+P030,Lee Catherine,35,F,Pregnancy - Complicated,2024-03-05,2024-03-15,Dr. Rodriguez

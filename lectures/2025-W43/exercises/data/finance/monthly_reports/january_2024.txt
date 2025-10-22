@@ -1,0 +1,28 @@
+Monthly Financial Report - January 2024
+========================================
+
+Summary:
+- Total Credits: $185,000.00
+- Total Debits: $156,789.50
+- Net Income: $28,210.50
+- Number of Transactions: 140
+
+Top Categories by Spending:
+1. Investment: $50,000.00
+2. Rent: $7,500.00
+3. Insurance: $1,200.00
+4. Groceries: $510.66
+5. Shopping: $929.99
+
+Account Activity:
+- ACC-1001: 25 transactions
+- ACC-1002: 35 transactions
+- ACC-1003: 30 transactions
+- ACC-1004: 28 transactions
+- ACC-1005: 22 transactions
+
+Notes:
+- High investment activity in January
+- Regular salary deposits on schedule
+- No overdraft incidents
+- All transactions completed successfully

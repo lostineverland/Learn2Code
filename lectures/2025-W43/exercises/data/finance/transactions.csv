@@ -1,0 +1,41 @@
+TransactionID,AccountID,Date,Amount,Type,Category,Merchant,Status
+T20240101,ACC-1001,2024-01-05,2500.00,Debit,Rent,Property Management Co,Completed
+T20240102,ACC-1002,2024-01-05,45.67,Debit,Groceries,Whole Foods Market,Completed
+T20240103,ACC-1001,2024-01-06,3500.00,Credit,Salary,Employer Direct Deposit,Completed
+T20240104,ACC-1003,2024-01-06,125.00,Debit,Utilities,Electric Company,Completed
+T20240105,ACC-1002,2024-01-07,89.99,Debit,Shopping,Amazon,Completed
+T20240106,ACC-1004,2024-01-08,15000.00,Credit,Investment,Stock Purchase,Completed
+T20240107,ACC-1001,2024-01-08,75.50,Debit,Dining,Restaurant ABC,Completed
+T20240108,ACC-1003,2024-01-09,1200.00,Debit,Insurance,Health Insurance Co,Completed
+T20240109,ACC-1002,2024-01-10,250.00,Debit,Entertainment,Concert Tickets,Completed
+T20240110,ACC-1005,2024-01-11,5000.00,Credit,Consulting,Client Payment,Completed
+T20240111,ACC-1001,2024-01-12,450.00,Debit,Auto,Gas Station,Completed
+T20240112,ACC-1004,2024-01-13,25000.00,Debit,Investment,Real Estate Purchase,Completed
+T20240113,ACC-1002,2024-01-14,199.99,Debit,Electronics,Best Buy,Completed
+T20240114,ACC-1003,2024-01-15,85.00,Debit,Healthcare,Pharmacy,Completed
+T20240115,ACC-1001,2024-01-16,2500.00,Debit,Rent,Property Management Co,Completed
+T20240116,ACC-1005,2024-01-17,8500.00,Credit,Freelance,Project Completion,Completed
+T20240117,ACC-1002,2024-01-18,55.00,Debit,Transportation,Uber,Completed
+T20240118,ACC-1004,2024-01-19,12000.00,Credit,Investment,Stock Sale,Completed
+T20240119,ACC-1003,2024-01-20,3500.00,Credit,Salary,Employer Direct Deposit,Completed
+T20240120,ACC-1001,2024-01-21,150.00,Debit,Subscriptions,Streaming Services,Completed
+T20240121,ACC-1002,2024-01-22,320.00,Debit,Groceries,Trader Joes,Completed
+T20240122,ACC-1005,2024-01-23,6000.00,Credit,Consulting,Client Payment,Completed
+T20240123,ACC-1004,2024-01-24,18000.00,Debit,Investment,Bond Purchase,Completed
+T20240124,ACC-1001,2024-01-25,95.00,Debit,Dining,Restaurant XYZ,Completed
+T20240125,ACC-1003,2024-01-26,200.00,Debit,Personal Care,Spa Services,Completed
+T20240126,ACC-1002,2024-01-27,450.00,Debit,Shopping,Department Store,Completed
+T20240127,ACC-1004,2024-01-28,22000.00,Credit,Investment,Dividend Payment,Completed
+T20240128,ACC-1001,2024-01-29,125.00,Debit,Utilities,Water Company,Completed
+T20240129,ACC-1005,2024-01-30,7500.00,Credit,Freelance,Project Payment,Completed
+T20240130,ACC-1003,2024-01-31,500.00,Debit,Education,Online Course,Completed
+T20240131,ACC-1002,2024-02-01,89.00,Debit,Groceries,Local Market,Completed
+T20240132,ACC-1001,2024-02-02,3500.00,Credit,Salary,Employer Direct Deposit,Completed
+T20240133,ACC-1004,2024-02-03,15000.00,Debit,Investment,Mutual Fund,Completed
+T20240134,ACC-1005,2024-02-04,5500.00,Credit,Consulting,Client Payment,Completed
+T20240135,ACC-1002,2024-02-05,175.00,Debit,Entertainment,Movie Theater,Completed
+T20240136,ACC-1003,2024-02-06,2500.00,Debit,Rent,Property Management Co,Completed
+T20240137,ACC-1001,2024-02-07,65.00,Debit,Dining,Cafe,Completed
+T20240138,ACC-1004,2024-02-08,30000.00,Credit,Investment,Stock Sale,Completed
+T20240139,ACC-1002,2024-02-09,399.99,Debit,Electronics,Apple Store,Completed
+T20240140,ACC-1005,2024-02-10,9000.00,Credit,Freelance,Large Project,Completed

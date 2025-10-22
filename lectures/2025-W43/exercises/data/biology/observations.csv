@@ -1,0 +1,31 @@
+ObservationID,Date,Location,Species,Count,Behavior,Weather,Observer
+OBS001,2024-01-15,Site_A,Bald Eagle,2,Hunting,Clear,Dr. Smith
+OBS002,2024-01-15,Site_A,Red-tailed Hawk,4,Perched,Clear,Dr. Smith
+OBS003,2024-01-16,Site_B,White-tailed Deer,8,Grazing,Cloudy,J. Martinez
+OBS004,2024-01-16,Site_B,Wild Turkey,12,Foraging,Cloudy,J. Martinez
+OBS005,2024-01-17,Site_C,River Otter,3,Swimming,Rainy,Dr. Chen
+OBS006,2024-01-18,Site_A,Great Blue Heron,1,Fishing,Clear,T. Wilson
+OBS007,2024-01-18,Site_C,Beaver,2,Building dam,Clear,T. Wilson
+OBS008,2024-01-19,Site_D,Black Bear,1,Foraging,Partly Cloudy,Dr. Smith
+OBS009,2024-01-20,Site_B,Coyote,3,Traveling,Clear,J. Martinez
+OBS010,2024-01-20,Site_A,Red Fox,1,Hunting,Clear,J. Martinez
+OBS011,2024-01-22,Site_C,Wood Duck,15,Swimming,Cloudy,Dr. Chen
+OBS012,2024-01-23,Site_D,Moose,2,Grazing,Snowy,T. Wilson
+OBS013,2024-01-24,Site_A,Bald Eagle,3,Nesting,Clear,Dr. Smith
+OBS014,2024-01-25,Site_B,Raccoon,5,Foraging,Rainy,J. Martinez
+OBS015,2024-01-26,Site_C,Muskrat,4,Swimming,Clear,Dr. Chen
+OBS016,2024-01-27,Site_D,Gray Wolf,4,Hunting,Cloudy,T. Wilson
+OBS017,2024-01-28,Site_A,Canada Goose,25,Flying,Clear,Dr. Smith
+OBS018,2024-01-29,Site_B,White-tailed Deer,12,Grazing,Partly Cloudy,J. Martinez
+OBS019,2024-01-30,Site_C,Great Blue Heron,2,Fishing,Clear,Dr. Chen
+OBS020,2024-02-01,Site_A,Red-tailed Hawk,3,Perched,Cloudy,T. Wilson
+OBS021,2024-02-02,Site_B,Wild Turkey,18,Foraging,Clear,Dr. Smith
+OBS022,2024-02-03,Site_D,Black Bear,2,Den activity,Snowy,J. Martinez
+OBS023,2024-02-04,Site_C,River Otter,5,Swimming,Clear,Dr. Chen
+OBS024,2024-02-05,Site_A,Bald Eagle,2,Hunting,Partly Cloudy,T. Wilson
+OBS025,2024-02-06,Site_B,Coyote,2,Howling,Clear,Dr. Smith
+OBS026,2024-02-07,Site_D,Moose,3,Grazing,Snowy,J. Martinez
+OBS027,2024-02-08,Site_C,Beaver,3,Swimming,Clear,Dr. Chen
+OBS028,2024-02-09,Site_A,Canada Goose,30,Resting,Cloudy,T. Wilson
+OBS029,2024-02-10,Site_B,Red Fox,2,Hunting,Clear,Dr. Smith
+OBS030,2024-02-11,Site_C,Wood Duck,20,Swimming,Rainy,J. Martinez

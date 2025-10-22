@@ -1,0 +1,23 @@
+2024-01-15 08:00:00 INFO Application started
+2024-01-15 08:00:15 INFO Loading configuration
+2024-01-15 08:00:20 INFO Configuration loaded
+2024-01-15 08:15:30 INFO User request: GET /api/users
+2024-01-15 08:15:32 INFO Response: 200 OK
+2024-01-15 08:45:12 INFO User request: POST /api/data
+2024-01-15 08:45:15 INFO Response: 201 Created
+2024-01-15 09:20:45 WARNING Rate limit approaching for user: user123
+2024-01-15 10:15:22 ERROR Invalid request format
+2024-01-15 10:15:22 INFO Response: 400 Bad Request
+2024-01-15 11:30:18 INFO User request: GET /api/reports
+2024-01-15 11:30:25 INFO Response: 200 OK
+2024-01-15 12:45:33 ERROR Database connection failed
+2024-01-15 12:45:35 INFO Attempting reconnection
+2024-01-15 12:45:40 INFO Database connection restored
+2024-01-15 14:20:15 INFO User request: DELETE /api/data/123
+2024-01-15 14:20:18 INFO Response: 204 No Content
+2024-01-15 15:35:42 WARNING High request volume detected
+2024-01-15 16:10:55 INFO Cache hit rate: 87%
+2024-01-15 17:25:30 ERROR Authentication failed for user: guest
+2024-01-15 18:40:22 INFO Daily statistics calculated
+2024-01-15 19:55:18 INFO Application shutdown initiated
+2024-01-15 19:55:25 INFO Application stopped gracefully

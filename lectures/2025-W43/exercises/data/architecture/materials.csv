@@ -1,0 +1,24 @@
+MaterialID,ProjectID,MaterialName,Quantity,Unit,UnitCost,TotalCost,Supplier,Status
+MAT001,PRJ001,Structural Steel,250,Tons,2500,625000,Steel Works Inc,Ordered
+MAT002,PRJ001,Curtain Wall Glass,5000,SqFt,150,750000,Glass Systems Co,Ordered
+MAT003,PRJ001,Concrete,800,CubicYd,120,96000,Ready Mix Supply,Delivered
+MAT004,PRJ002,Limestone,1500,SqFt,85,127500,Stone Quarry Ltd,Quoted
+MAT005,PRJ002,Hardwood Flooring,2200,SqFt,45,99000,Premium Woods,Quoted
+MAT006,PRJ002,Roof Tiles,3500,Pieces,12,42000,Tile Manufacturers,Quoted
+MAT007,PRJ003,Acoustic Panels,800,SqFt,65,52000,Sound Solutions,Ordered
+MAT008,PRJ003,LED Lighting,150,Fixtures,450,67500,Light Tech,Ordered
+MAT009,PRJ003,Carpet Tiles,4000,SqFt,35,140000,Floor Concepts,Pending
+MAT010,PRJ005,Brick Facade,25000,Units,3.50,87500,Brick Factory,Ordered
+MAT011,PRJ005,Metal Roofing,6000,SqFt,28,168000,Roofing Systems,Ordered
+MAT012,PRJ007,Marble Flooring,3500,SqFt,125,437500,Italian Stone Co,Delivered
+MAT013,PRJ007,Gallery Lighting,200,Fixtures,850,170000,Museum Systems,Ordered
+MAT014,PRJ007,Climate Control Glass,2500,SqFt,180,450000,Specialty Glass,Ordered
+MAT015,PRJ009,Vinyl Siding,1800,SqFt,22,39600,Siding Solutions,Ordered
+MAT016,PRJ009,Asphalt Shingles,2500,SqFt,18,45000,Roofing Supply,Delivered
+MAT017,PRJ009,Kitchen Cabinets,1,Set,35000,35000,Custom Cabinets Inc,Pending
+MAT018,PRJ011,Stainless Steel,500,SqFt,95,47500,Commercial Kitchen Supply,Ordered
+MAT019,PRJ011,Porcelain Tile,1200,SqFt,55,66000,Tile Warehouse,Delivered
+MAT020,PRJ011,Custom Millwork,1,Set,45000,45000,Woodcraft Studios,In Production
+MAT021,PRJ013,Medical Grade Flooring,8000,SqFt,48,384000,Healthcare Surfaces,Ordered
+MAT022,PRJ013,Antimicrobial Paint,500,Gallons,85,42500,Medical Coatings,Ordered
+MAT023,PRJ013,LED Medical Lighting,180,Fixtures,650,117000,Healthcare Lighting,Pending

@@ -1,0 +1,56 @@
+Architecture Drawing Files
+===========================
+
+PRJ001 - Downtown Office Complex
+---------------------------------
+PRJ001_A01_site_plan.dwg (12.5 MB) - Site Plan
+PRJ001_A02_floor_plan_L1.dwg (15.8 MB) - Ground Floor
+PRJ001_A03_floor_plan_L2-L10.dwg (18.2 MB) - Typical Floor
+PRJ001_A04_elevations.dwg (22.1 MB) - Exterior Elevations
+PRJ001_A05_sections.dwg (19.5 MB) - Building Sections
+PRJ001_S01_structural.dwg (25.3 MB) - Structural Plans
+PRJ001_M01_mechanical.dwg (16.7 MB) - HVAC Systems
+PRJ001_E01_electrical.dwg (14.2 MB) - Electrical Plans
+PRJ001_P01_plumbing.dwg (13.8 MB) - Plumbing Plans
+
+PRJ002 - Residential Villa
+---------------------------
+PRJ002_A01_site_plan.dwg (8.2 MB) - Site Plan
+PRJ002_A02_floor_plan.dwg (10.5 MB) - Floor Plans
+PRJ002_A03_elevations.dwg (11.8 MB) - Elevations
+PRJ002_A04_details.dwg (9.3 MB) - Construction Details
+
+PRJ003 - Public Library Renovation
+-----------------------------------
+PRJ003_A01_existing_conditions.dwg (14.5 MB) - As-Built
+PRJ003_A02_demolition_plan.dwg (12.3 MB) - Demo Plan
+PRJ003_A03_new_floor_plan.dwg (16.9 MB) - Proposed Floor Plan
+PRJ003_A04_interior_elevations.dwg (15.2 MB) - Interior Design
+
+PRJ007 - Museum Addition
+-------------------------
+PRJ007_A01_site_plan.dwg (13.7 MB) - Site Integration
+PRJ007_A02_floor_plans.dwg (20.4 MB) - Gallery Spaces
+PRJ007_A03_elevations.dwg (24.8 MB) - Exterior Design
+PRJ007_A04_sections.dwg (21.5 MB) - Building Sections
+PRJ007_A05_lighting_plan.dwg (17.2 MB) - Museum Lighting
+
+PRJ009 - Single Family Home
+----------------------------
+PRJ009_A01_site_plan.dwg (6.5 MB) - Site Layout
+PRJ009_A02_floor_plans.dwg (8.9 MB) - All Floors
+PRJ009_A03_elevations.dwg (10.2 MB) - Exterior Views
+PRJ009_A04_roof_plan.dwg (7.8 MB) - Roof Design
+
+PRJ011 - Restaurant Interior
+-----------------------------
+PRJ011_A01_layout.dwg (9.5 MB) - Space Planning
+PRJ011_A02_details.dwg (11.2 MB) - Custom Details
+PRJ011_A03_finishes.dwg (8.7 MB) - Material Specifications
+
+PRJ013 - Medical Office Complex
+--------------------------------
+PRJ013_A01_site_plan.dwg (11.8 MB) - Site Development
+PRJ013_A02_floor_plans.dwg (17.5 MB) - Floor Layouts
+PRJ013_A03_medical_equipment.dwg (15.9 MB) - Equipment Plans
+PRJ013_M01_specialized_systems.dwg (19.2 MB) - Medical Systems

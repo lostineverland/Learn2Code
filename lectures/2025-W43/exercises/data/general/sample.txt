@@ -1,0 +1,19 @@
+This is a sample text file for practicing basic command line operations.
+
+The quick brown fox jumps over the lazy dog.
+This sentence contains every letter of the alphabet.
+
+Here are some numbers: 1, 2, 3, 4, 5
+And some more: 10, 20, 30, 40, 50
+
+Command line skills are essential for programmers.
+Practice makes perfect!
+
+You can use this file to test commands like:
+- cat (display file contents)
+- head (show first few lines)
+- tail (show last few lines)
+- wc (count lines, words, characters)
+- grep (search for patterns)
+
+Remember: Always use tab completion to avoid typos.
