@@ -131,6 +131,9 @@ Use `type <command>` to find out what something is.
 - Your PATH tells the computer where to find programs
 - Use `which` and `type` to discover what commands actually are
 
+<!-- Class ended here -->
+
+
 ## Standard Streams: How Programs Communicate
 
 Every program has three communication channels built in. Understanding these is crucial for using the command line effectively.
