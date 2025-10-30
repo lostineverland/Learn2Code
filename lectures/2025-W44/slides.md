@@ -95,7 +95,7 @@ notes:
   00000000   # base 10
   00000000.1 # base 10
   0x11       # base 16
-  0o11       # base 18
+  0o11       # base 8
   0b11       # base 2
   ```
 
