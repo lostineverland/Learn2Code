@@ -840,6 +840,7 @@ print(f"Total estimated cost: ${total_cost:,.2f}")
 print(f"Project team: {', '.join(project['team'])}")
 ```
 
+<!-- Lecture 5 materials end here -->
 ---
 
 ## Sets: Unique Collections
